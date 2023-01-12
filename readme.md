@@ -50,7 +50,7 @@ Screenshots coming soon.
 
 Install PostgreSQL
 
-To create and activate a virtual environment:
+To create and activate a virtual environment: 
 ```
 virtualenv env
 source env/bin/activate
