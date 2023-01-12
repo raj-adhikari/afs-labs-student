@@ -1,4 +1,4 @@
---
+-- adding a new table
 -- PostgreSQL database dump
 --
 
